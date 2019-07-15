@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+body{
+  background-image:url('https://www.aier.org/sites/default/files/Files/Images/Blog/9775/MG_0326.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
