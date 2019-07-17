@@ -7,7 +7,7 @@ Creating and posting Quotes
 
 ## SetUp/Installation
 
- * clone the project from Quotes
+ * clone the project from gita
  * Change Directory to gita in your local machine
  * list the number of file present
  * move to the app folder
