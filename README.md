@@ -1,6 +1,7 @@
 # Gita
 by tom
 
+This project was generated with Angular CLI version 8.0.6.
 
 ## Description
 Creating and posting Gita
