@@ -5,6 +5,13 @@ by tom
 ## Description
 Creating and posting Gita
 
+## BDD
+This application enables the the user to input their favorite user's account name on github and search for it.
+
+
+
+
+
 ## SetUp/Installation
 
  * clone the project from gita
