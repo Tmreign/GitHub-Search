@@ -24,6 +24,7 @@ This application enables the the user to input their favorite user's account nam
  * Open your terminal
  * initialize github, git clone
  * cd githubSearch
+ * open folder in prefered IDE
 
 ## Technologies Used
 
