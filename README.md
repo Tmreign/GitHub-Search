@@ -23,6 +23,7 @@ This application enables the the user to input their favorite user's account nam
  * move to the app folder
  * Open your terminal
  * initialize github, git clone
+ * cd githubSearch
 
 ## Technologies Used
 
