@@ -26,6 +26,7 @@ This application enables the the user to input their favorite user's account nam
  * cd githubSearch
  * open folder in prefered IDE
  * open terminal
+ * 
 
 ## Technologies Used
 
