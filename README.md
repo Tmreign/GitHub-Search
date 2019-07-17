@@ -10,6 +10,7 @@ This application enables the the user to input their favorite user's account nam
 
   * Type in the username.
   * The user automatically appears if it's correct.
+  * Allows them to access their repositories too.
 
 
 
