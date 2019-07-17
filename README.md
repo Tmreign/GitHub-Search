@@ -22,6 +22,7 @@ This application enables the the user to input their favorite user's account nam
  * list the number of file present
  * move to the app folder
  * Open your terminal
+ * initialize github, git clone
 
 ## Technologies Used
 
