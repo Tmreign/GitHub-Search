@@ -9,7 +9,7 @@ Creating and posting Gita
 This application enables the the user to input their favorite user's account name on github and search for it.
 
   * Type in the username.
-  * 
+  * The user automatically appears if it's correct.
 
 
 
