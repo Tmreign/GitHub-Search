@@ -15,17 +15,13 @@ This application enables the the user to input their favorite user's account nam
   * Allows users to view the number of repositories , number of people they follow and following them back.
 
 
-
-
-
-
-
 ## SetUp/Installation
 
  * clone the project from gita
  * Change Directory to gita in your local machine
  * list the number of file present
  * move to the app folder
+ * Open your terminal
 
 ## Technologies Used
 
