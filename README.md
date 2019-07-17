@@ -8,6 +8,10 @@ Creating and posting Gita
 ## BDD
 This application enables the the user to input their favorite user's account name on github and search for it.
 
+  * Type in the username.
+  * 
+
+
 
 
 
