@@ -3,7 +3,7 @@ by tom
 
 
 ## Description
-Creating and posting Quotes
+Creating and posting Gita
 
 ## SetUp/Installation
 
